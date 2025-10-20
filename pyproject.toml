@@ -1,0 +1,19 @@
+[project]
+name = "lazyreport"
+version = "1.0"
+description = "Semi-automatic penetration testing report generator."
+dependencies = [
+    "python-docx",
+    "requests",
+    "colorama",
+    "docxcompose",
+    "cvss",
+    "questionary",
+]
+
+[project.scripts]
+lazyreport = "lazyreport.app:run"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
