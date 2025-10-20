@@ -2,7 +2,7 @@
 ![lazyReport](https://image.prntscr.com/image/cmYRWQBsTL61frAjQiBGXw.png)
 <p>
 	<a href="https://python.org"><img src="https://img.shields.io/badge/made%20with-Python-red"></a>
-	<a href="https://github.com/narlyse/lazyreport/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red"></a>
+	<a href="https://github.com/narlyseorg/lazyreport/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red"></a>
 	<a href="#"><img src="https://img.shields.io/badge/platform-osx%2Flinux%2Fwindows-red"></a>
 </p>
 
@@ -109,4 +109,4 @@ PRs welcome, but if you break it, you get to keep both pieces.
 
 ## License
 
-This program is free software: Feel free to copy, tweak or abuse it; as long as you play nice under the terms of the [MIT License](https://github.com/narlyse/lazyreport/blob/master/LICENSE). Author: [Zoey](https://github.com/narlyse)
+This program is free software: Feel free to copy, tweak or abuse it; as long as you play nice under the terms of the [MIT License](https://github.com/narlyseorg/lazyreport/blob/master/LICENSE). Author: [Zoey](https://github.com/narlyseorg)
