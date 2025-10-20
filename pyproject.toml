@@ -1,7 +1,7 @@
 [project]
 name = "lazyreport"
 version = "1.0"
-description = "Semi-automatic penetration testing report generator."
+description = "lazyreport: Semi-automated, AI-powered penetration testing report generator."
 dependencies = [
     "python-docx",
     "requests",
