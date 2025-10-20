@@ -31,7 +31,7 @@ You need **Python 3.8+** installed on your system.
 
 ### 1. Clone
 
-    git clone https://github.com/narlyse/lazyreport.git
+    git clone https://github.com/narlyseorg/lazyreport.git
     cd lazyreport
 
 ### 2. Venv
