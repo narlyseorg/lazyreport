@@ -98,6 +98,9 @@ Follow the prompts. Answer honestly. Or don't. The AI doesn't care.
 - OpenAI/Anthropic/Ollama integration.
 - Web-based UI.
 
+## Demonstration
+[![Demonstration](https://drive.google.com/thumbnail?id=1si_1o2iRa5SpM2ICRL-27RVvBaYSc0X9&sz=w400)](https://drive.google.com/file/d/1si_1o2iRa5SpM2ICRL-27RVvBaYSc0X9/view)
+
 ## Contributing
 
 PRs welcome, but if you break it, you get to keep both pieces.
